@@ -14,8 +14,8 @@ choose "More info" and then "Run anyway".
 ## Use
 
 1. Install and start the simultano Mixer. It finds your audio inputs by itself.
-2. In the simultano.ai console, choose "simultano aplikacija (mikseta)" as the audio source
-   and enter the pairing code the Mixer shows.
+2. In the simultano.ai console, choose "Aplikacija s miksetom" (App with the mixer) as the
+   audio source and enter the pairing code the Mixer shows.
 3. Pick the spoken language for each microphone and press Start.
 
 Keep the Mixer open while an event is live.
